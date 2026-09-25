@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "71ba8368d2c023b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f993a9b36d244e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb04543dce52aa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Kenney Platformer Tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kenney Platformer Tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431c5d37effe2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2b64b89c2a0471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1233cc180123fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "76b229089014be11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e126c154ad430fc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "7675319bfe4ccdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c881c8eff981f788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7c30839b307150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4ae7427c6cca1374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c00ceab8cf728446",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9be1c1b78b7d20db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54eca1b7bc50017a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb04543dce52aa67",
+  "lastOpenFiles": [
+    "Kenney Platformer Tutorial/Game Polish & Juice/Game Finalization Plan.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/0-Code Refactor/Code Refactor.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/0-Code Refactor/1-AI Code Review.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/Sound Effects.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/5-Boss Proximity Alert.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/4-Pickup Sound Effects.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/2-Particle Effects/Particle Effects.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/2-Particle Effects/2-Dark Levels.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/3-Enemy Hurt & Death Sound Effects.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/2-Player Sound Effects.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects/1-Level Background Music.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/2-Particle Effects/1-Dust Particles.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/Bug Fixes.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/10-Mario Blocks.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/9-Enemy Hurt Animation.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/4-Enemy Patrol Range Review.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/8-Player Health and Coins Persistence.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/7-Health Pickups.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/6-Boss Damage Update.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/5-Level 4 Lava Hazard.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/3-Game Start Screen.md",
+    "99-Images/Pasted image 20260925104737.png",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/2-Player Death.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes/1-Level Specific Viewport Size.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/0-Code Refactor",
+    "Kenney Platformer Tutorial/Game Polish & Juice/3-Sound Effects",
+    "Kenney Platformer Tutorial/Game Polish & Juice/2-Particle Effects",
+    "Kenney Platformer Tutorial/Game Polish & Juice/1-Bug Fixes",
+    "Kenney Platformer Tutorial/Kenney Platformer Tutorial.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/0-Code Refactor/9-Collision Checks.md",
+    "Kenney Platformer Tutorial/Game Polish & Juice/0-Code Refactor/8-Level Update For Setup.md",
+    "99-Images/20260925-1423-45.4367934.mp4",
+    "99-Images/20260925-1423-45.4367934 1.mp4",
+    "99-Images/Pasted image 20260925082250.png",
+    "99-Images/Pasted image 20260925062705.png",
+    "99-Images/robowser_fortress.png",
+    "99-Images/Pasted image 20260925061410.png",
+    "99-Images/20260925-1206-32.1621165.mp4",
+    "99-Images/Pasted image 20260925060601.png",
+    "99-Images/Pasted image 20260924154706.png",
+    "99-Images/Pasted image 20260924153143.png",
+    "99-Images/Pasted image 20260924153006.png",
+    "99-Images/Pasted image 20260924133912.png",
+    "99-Images/20260924-1935-31.2261225.mp4",
+    "99-Images/20260924-1527-02.3752275.mp4",
+    "99-Images/20260924-1439-48.2280926.mp4"
+  ]
+}
