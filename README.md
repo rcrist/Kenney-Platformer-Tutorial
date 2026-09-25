@@ -1,2 +1,20 @@
-# kenney_platformer_tutorial
-Python Arcade platformer using Kenney assets
+# Kenney Platformer Tutorial
+
+Python Arcade 2D platformer using Kenney assets in sort of a Super Kenney Bros game.
+
+Level 1
+![Screenshot](assets/images/Level1.png)
+
+Level 2
+![Screenshot](assets/images/Level2.png)
+
+Level 3
+![Screenshot](assets/images/Level3.png)
+
+Level 4
+![Screenshot](assets/images/Level4.png)
+
+Assets:
+- [Kenny](kenny.nl)
+- NaturePack by Bad Rock Studios
+

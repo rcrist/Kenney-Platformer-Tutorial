@@ -40,7 +40,7 @@ LEVELS = (
     },
 )
 
-STARTING_LEVEL_INDEX = 1
+STARTING_LEVEL_INDEX = 3
 
 
 class GameManager:
