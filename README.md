@@ -18,3 +18,4 @@ Assets:
 - [Kenny](kenny.nl)
 - NaturePack by Bad Rock Studios
 
+See Obsidian Tutorial Text for documentation.
