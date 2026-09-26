@@ -52,7 +52,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 8, 8, 8, 0, 0, 45, 0, 0, 0, 2147483673, 8, 8, 8, 25, 0, 0, 0, 8, 8,
             8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 5, 5, 5, 5, 5, 5, 5, 5, 0, 32, 38, 37, 0, 2147483673, 2147483672, 5, 5, 5, 24, 25, 0, 8, 5, 5,
             5, 5, 0, 0, 0, 0, 8, 8, 58, 58, 58, 58, 58, 8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 5, 8, 8, 8, 8, 8, 2147483672, 5, 5, 5, 5, 5, 24, 8, 5, 5, 5,
-            5, 5, 8, 8, 8, 8, 5, 5, 173, 173, 173, 173, 173, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
+            5, 5, 8, 8, 8, 8, 5, 5, 174, 174, 174, 174, 174, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
             8, 8, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
          "height":20,
          "id":8,
@@ -70,7 +70,7 @@
          "name":"Nature",
          "objects":[
                 {
-                 "gid":185,
+                 "gid":186,
                  "height":128,
                  "id":7,
                  "name":"",
@@ -89,7 +89,7 @@
                  "y":2300
                 }, 
                 {
-                 "gid":182,
+                 "gid":183,
                  "height":128,
                  "id":8,
                  "name":"",
@@ -108,7 +108,7 @@
                  "y":1796
                 }, 
                 {
-                 "gid":183,
+                 "gid":184,
                  "height":128,
                  "id":9,
                  "name":"",
@@ -127,7 +127,7 @@
                  "y":2196
                 }, 
                 {
-                 "gid":184,
+                 "gid":185,
                  "height":128,
                  "id":10,
                  "name":"",
@@ -162,6 +162,12 @@
                  "id":1,
                  "name":"",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"Block"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -175,6 +181,12 @@
                  "id":2,
                  "name":"",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"Block"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -188,6 +200,12 @@
                  "id":3,
                  "name":"",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"Block"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -285,7 +303,7 @@
          "name":"Enemies",
          "objects":[
                 {
-                 "gid":186,
+                 "gid":187,
                  "height":150,
                  "id":11,
                  "name":"",
@@ -314,7 +332,7 @@
                  "y":1795
                 }, 
                 {
-                 "gid":187,
+                 "gid":188,
                  "height":120,
                  "id":12,
                  "name":"",
@@ -343,7 +361,7 @@
                  "y":900
                 }, 
                 {
-                 "gid":188,
+                 "gid":189,
                  "height":150,
                  "id":13,
                  "name":"",
@@ -372,7 +390,7 @@
                  "y":2179
                 }, 
                 {
-                 "gid":189,
+                 "gid":190,
                  "height":150,
                  "id":14,
                  "name":"",
@@ -526,15 +544,15 @@
          "source":"..\/..\/..\/..\/Tiled_Projects\/Kenny_Platformer_Tutorial\/Items.tsx"
         }, 
         {
-         "firstgid":172,
+         "firstgid":173,
          "source":"..\/..\/..\/..\/Tiled_Projects\/Kenny_Platformer_Tutorial\/Water.tsx"
         }, 
         {
-         "firstgid":178,
+         "firstgid":179,
          "source":"..\/..\/..\/..\/Tiled_Projects\/Kenny_Platformer_Tutorial\/Nature.tsx"
         }, 
         {
-         "firstgid":186,
+         "firstgid":187,
          "source":"..\/..\/..\/..\/Tiled_Projects\/Kenny_Platformer_Tutorial\/Robots.tsx"
         }],
  "tilewidth":128,
